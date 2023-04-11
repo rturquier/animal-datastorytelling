@@ -1,0 +1,12 @@
+# data
+data/
+
+# R
+.Rhistory
+.Rapp.history
+.Ruserdata
+.Rproj.user
+.RData
+
+# macOS Finder display preferences
+.DS_Store
